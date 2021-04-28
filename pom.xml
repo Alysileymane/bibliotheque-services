@@ -6,7 +6,7 @@
 
     <groupId>fr.bibliotheque</groupId>
     <artifactId>bibliotheque-services</artifactId>
-    <version>3.1.2-SNAPSHOT</version>
+    <version>3.1.3-SNAPSHOT</version>
 
 
     <properties>
